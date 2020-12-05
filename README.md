@@ -30,7 +30,7 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 ⚠️ 
 * Visual Code
 * Node.js
-* Run this command ``` npm i ``` to install Inquirer or any other node packages needed.
+* Run ``` npm i ``` command to install Inquirer or any other node packages needed.
 
 # Built&nbsp;With
 
