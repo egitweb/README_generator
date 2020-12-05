@@ -11,7 +11,7 @@
   
   * [Installation](#installation)
   
-  * [⚠️Requirements](#⚠️requirements)
+  * [Requirements](#requirements)
   
   * [Built&nbsp;With](#builtwith)
   
@@ -25,9 +25,9 @@
 
 To run this code, download the zip file, or use GitHub's guidelines to clone the repository.
 
-# ⚠️Requirements
+# Requirements
 
---
+⚠️ --
 
 # Built&nbsp;With
 
