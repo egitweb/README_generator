@@ -33,6 +33,9 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 ⚠️ 
 ${data.Requirements}
 
+# Usage
+${data.Usage}
+
 # Built&nbsp;With
 
 * ${data.Build}

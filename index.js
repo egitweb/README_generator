@@ -33,12 +33,9 @@ const questions = [
       name: "Build",
     },
     {
-        type: "checkbox",
-        message: "Does this project includes any Tests?",
-        choices: [
-            'YES ',
-            'NO'],
-        name: "Tests",
+        type: "input",
+        message: "How do you use the application?",
+        name: "Usage",
       },
     {
         type: "input",
