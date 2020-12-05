@@ -4,7 +4,7 @@
 <h3>Preview:</h3>
 
 <p align="center">
-  <img src="#" width="100%" title="README_generator Preview">
+  <img src="https://raw.githubusercontent.com/egitweb/README_generator/main/Readmemd-generator-preview.gif" height="40%" width="50%" title="README_generator Preview">
 </p>
 
 # Table of Contents 
