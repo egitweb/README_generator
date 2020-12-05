@@ -29,7 +29,7 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 # Requirements
 
 ⚠️ 
-Visual Studios, Node.js
+Visual Studios, node.js, Inquier npm
 
 # Usage
 To use README.md generator run: node index in terminal, and answer the questions asked. After prompts answered, your new README.md file is created inside the folder called "built".
