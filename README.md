@@ -34,7 +34,7 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 
 # Usage
 
-To use README.md generator run: ```node index``` in terminal, and answer the questions asked. After prompts answered, open the "README.md" file located inside the folder with the name "new".
+To use README.md generator run: node index in the terminal, and answer the questions asked. After prompts are answered, open the "README.md" file located inside the folder with the name "new".
 
 # Built&nbsp;With
 
