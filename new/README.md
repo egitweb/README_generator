@@ -1,17 +1,19 @@
 
-  # README_generator
+  # 
 <h2>Getting Started</h2>
-<p>This command-line application will help you generate a professional README.md file directly using Terminal.</p>
+<p></p>
 <h3>Preview:</h3>
 
 <p align="center">
-  <img src="#" width="100%" title="README_generator Preview">
+  <img src="#" width="100%" title=" Preview">
 </p>
 
 # Table of Contents 
   
   * [Installation](#installation)
-  
+
+  * [Requirements](#requirements)
+
   * [Built&nbsp;With](#builtwith)
   
   * [Contributing](#contributing)
@@ -22,22 +24,27 @@
 
 # Installation
 
-To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
+To run this code, download the zip file, or use GitHub's guidelines to clone the repository.
+
+# Requirements
+
+⚠️ 
 
 # Built&nbsp;With
 
-* [NodeJS](https://nodejs.org/) 
+* HTML 
 
-# Contributing
+# Tests
+YES 
 
-* Eugenio Espinoza
+# Contributors
 
+* 
 
 # License
 
-This project is license under the MIT License license.
-  
+This project is license under the GNU AGPLv3 license.
 
 # Questions
   
-If you have any questions about the repo, open an issue or contact Egitweb directly eeg.iosdeveloper@gmail.com.
+If you have any questions about the repo, open an issue or contact  directly .
