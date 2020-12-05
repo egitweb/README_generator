@@ -40,9 +40,6 @@ ${data.Usage}
 
 * ${data.Build}
 
-# Tests
-${data.Tests}
-
 # Contributors
 
 * ${data.Contributors}

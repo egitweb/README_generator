@@ -1,11 +1,11 @@
 
-  # Readme.md generator
+  # README_generator
 <h2>Getting Started</h2>
-<p>this is a quick demo</p>
+<p>This command-line application will help you generate a high-quality, professional README directly using Terminal.</p>
 <h3>Preview:</h3>
 
 <p align="center">
-  <img src="#" width="100%" title="Readme.md generator Preview">
+  <img src="#" width="100%" title="README_generator Preview">
 </p>
 
 # Table of Contents 
@@ -29,14 +29,14 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 # Requirements
 
 ⚠️ 
-Node.JS, Visual Studios, Inquirer
+Visual studios, Node.js
+
+# Usage
+To use README.md generator run: ```node index``` in terminal, and answer the questions asked. After prompts answered, your new README.md file is created inside the folder called "built".
 
 # Built&nbsp;With
 
 * [Node.JS](https://nodejs.org/) 
-
-# Tests
-YES 
 
 # Contributors
 
