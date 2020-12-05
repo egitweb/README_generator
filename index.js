@@ -29,13 +29,18 @@ const questions = [
           '[JavaScript](javascript.com) ',
           '[Moment](https://momentjs.com/) ',
           '[Jquery](https://api.jquery.com/) ',
-          '[NodeJS](https://nodejs.org/) '],
+          '[Node.JS](https://nodejs.org/) '],
       name: "Build",
     },
     {
         type: "input",
+        message: "Any Requirements:",
+        name: "Requirements",
+      },
+    {
+        type: "input",
         message: "Please add contributors",
-        name: "Contributor",
+        name: "Contributors",
       },
     {
         type: 'list',
