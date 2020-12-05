@@ -1,6 +1,6 @@
  # README_generator
 <h2>Getting Started</h2>
-<p>This command-line application will help you generate a professional README.md file directly using Terminal.</p>
+<p>This command-line application will help you generate a high-quality, professional README directly using Terminal.</p>
 <h3>Preview:</h3>
 
 <p align="center">
