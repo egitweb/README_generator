@@ -11,6 +11,8 @@
   
   * [Installation](#installation)
   
+  * [Requirements](#requirements)
+  
   * [Built&nbsp;With](#builtwith)
   
   * [Contributing](#contributing)
@@ -21,9 +23,9 @@
 
 # Installation
 
-To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
+To run this code, download the zip file, or use GitHub's guidelines to clone the repository.
 
-# Requirements
+# Requirements ⚠️
 
 --
 
