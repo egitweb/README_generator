@@ -15,7 +15,7 @@
   
   * [Built&nbsp;With](#builtwith)
   
-  * [Contributing](#contributing)
+  * [Contributors](#contributors)
   
   * [License](#license)
   
@@ -36,7 +36,7 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 
 * [NodeJS](https://nodejs.org/) 
 
-# Contributing
+# Contributors
 
 * Eugenio Espinoza
 
