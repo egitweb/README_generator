@@ -34,10 +34,10 @@ To run this code, download the zip file, or use GitHub's guidelines to clone the
 
 # Usage
 
-To use README.md generator run: ```node index``` in terminal, and answer the questions asked. After prompts answered, open the new "README.md" file located inside the folder with the name "new".
+To use README.md generator run: ```node index``` in terminal, and answer the questions asked. After prompts answered, your new README.md file is created inside the folder called "new".
 
 # Built&nbsp;With
-
+* [Visual Studios](https://visualstudio.microsoft.com/)
 * [NodeJS](https://nodejs.org/) 
 
 # Contributors

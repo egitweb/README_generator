@@ -69,7 +69,7 @@ const questions = [
 // function to write README file
 function writeToFile(fileName, data) {
 
-   fs.writeFile("./new/"+fileName, data, function(err){
+   fs.writeFile("./built/"+fileName, data, function(err){
     if (err){
         return console.log(err);
     }
